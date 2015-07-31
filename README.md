@@ -1,4 +1,8 @@
-# Constitution of IT Society, Multimedia University (Cyberjaya Campus) 2015/16 session
+# Constitution of IT Society, Multimedia University (Cyberjaya Campus)
+
+_This document is in draft mode._
+
+This document is established as of the 2015/2016 academic session of Multimedia University.
 
 ## Regulation 1: General information
 

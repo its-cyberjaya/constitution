@@ -8,6 +8,10 @@ This document is established as of the 2015/2016 academic session of Multimedia 
 
 ## Regulation 2: Definition of membership in IT Society
 
+Members of IT Society are defined as:
+* current active students of the Faculty of Computing Informatics, and
+* current active students of MMU who submits a membership form for registration in the membership database.
+
 ## Regulation 3: Responsibilities of an IT Society member
 
 ## Regulation 4: Organizational Structure

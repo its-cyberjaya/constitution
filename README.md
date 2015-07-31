@@ -15,6 +15,19 @@ Members of IT Society are defined as:
 ## Regulation 3: Responsibilities of IT Society Members
 
 ## Regulation 4: Organizational Structure
+* President - Anonoz Chong
+* Vice President 1 - Shaun Goh
+* Vice President 2 - Angeline Cheah
+* Secretary - Lee Zhen Yong
+* Treasurer - Joey Cheng
+* Head of IT Services Division - Hii Yong Lian
+  * -- Assistant - Jack Goh
+* Head of Outreach and Awareness - Lee Zhen Yong
+  * -- Assistant - Anonoz
+* Head of Skills Development - Joey Cheng
+  * -- Assistant - Asyraf
+* Head of Faculty Engagement - Khor Kia Kin
+  * -- Assistant - Shaun Goh
 
 ## Regulation 5: Responsibilities of Executive Council Members
 

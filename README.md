@@ -2,19 +2,19 @@
 
 ## Regulation 1: General information
 
-## Regulation 2: Credentials to join the IT Society
+## Regulation 2: Definition of membership in IT Society
 
-## Regulation 3: The responsibilities of an IT Society member
+## Regulation 3: Responsibilities of an IT Society member
 
 ## Regulation 4: Organizational Structure
 
-## Regulation 5: Executive Council Members’ Responsibilities
+## Regulation 5: Responsibilities of Executive Council Members
 
-## Regulation 6: Responsibility of the Divisional Committees
+## Regulation 6: Responsibilities of the Divisional Committees
 
 ## Regulation 7: Responsibilities of the Event Organizing Committees
 
-## Regulation 8: Meeting
+## Regulation 8: Meetings
 
 ## Regulation 9: Election
 

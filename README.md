@@ -34,6 +34,10 @@ Members of IT Society are defined as:
 ## Regulation 6: Responsibilities of Divisional Committee Members
 
 ## Regulation 7: Responsibilities of Event Committee Members
+* Recruit additional committee members
+* Plan and carry out event activities
+* In charge of sponsorship
+* Ensure event held align with society objective
 
 ## Regulation 8: Meetings
 

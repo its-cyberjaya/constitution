@@ -27,49 +27,56 @@ To empower students as active practitioners of information technology and to rep
   4. To act as a bridge between FCI and its students.
   5. To fight for the welfare and interests of FCI students.
 
-
 ## Regulation 2: Definition of Membership in IT Society
 
 1. Members of IT Society are defined as:
   * current active students of the Faculty of Computing Informatics, and
-  * current active students of MMU who submits a membership form for registration in the membership database.
+  * current active students of Multimedia University who submits a membership form for registration in the membership database.
 
 ## Regulation 3: Responsibilities of IT Society Members
 
 ## Regulation 4: Organizational Structure
 1. General Assembly
-  * The general assembly shall consist of all members of IT Society.
+  1. The general assembly shall consist of all members of IT Society.
 
 2. Executive Council
-  * President
-  * Vice President 1
-  * Vice President 2
-  * Secretary
-  * Treasurer
-  * Divisional Heads
+  1. The Executive Council shall consist of:
+    * President
+    * Vice President 1
+    * Vice President 2
+    * Secretary
+    * Treasurer
+    * Divisional Heads
+  2. The position of Vice President 2 may only be held by a member who is within their first year of Foundation, Diploma or Bachelor's Degree in Multimedia University.
 
 3. Divisional Committees
-  * Outreach and Awareness Division
-    * Head
-    * Deputy Head
-  * IT Services Division
-    * Head
-    * Deputy Head
-  * Skills Development Division
-    * Head
-    * Deputy Head
-  * Faculty Engagement Division
-    * Head
-    * Deputy Head
+  1. Divisional committee structure may change from year to year.
+  2. There can be any number of divisions or no divisions at all.
+  3. Divisions are usually created in order to fulfill specific roles or carry out a specific series of activities.
+  4. Each division shall be led by a Head and a Deputy Head.
+  5. Divisional Heads shall be considered a member of the Executive Council.
+  6. An example of divisions and its structure can be as follows:
+    * Outreach and Awareness Division
+      * Head
+      * Deputy Head
+    * IT Services Division
+      * Head
+      * Deputy Head
+    * Skills Development Division
+      * Head
+      * Deputy Head
+    * Faculty Engagement Division
+      * Head
+      * Deputy Head
 
 4. Event Committees
-  * Event committees are formed as and when required in order 
-  * They will usually (but not necessarily) consist of:
+  1. Event committees are formed as and when required in order to organize events.
+  2. They will usually (but not necessarily) consist of:
     * Director
     * Deputy Director
     * Secretary
     * Treasurer
-  * Divisions may be formed to carry out specific tasks under event committees and will be led by Heads and Deputy Heads.
+  3. Divisions may be formed to carry out specific tasks under event committees and will be led by Heads and Deputy Heads.
 
 ## Regulation 5: Responsibilities of Executive Council Members
 

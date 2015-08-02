@@ -54,7 +54,17 @@ The Annual General Meeting is an important event for IT Society committees and m
 3. Major amendments of constitution must have **two-thirds majority vote** from the members that attend the AGM.
 4. Notice regarding the AGM must be made known **at least a week** before the event.
 
-### B. General Assembly 
+### B. Any other meetings
+
+Meetings can be started by any committee member, or suggested by IT Society member, in order to discuss about certain topics, and ultimately **get decisions made**.
+
+Rules to follow:
+
+1. Clear and purposeful **agenda** must be written down before a meeting is called.
+2. Only those who are necessary to be present are invited.
+3. A **meeting minute** must be written down and sent to everyone present at the meeting as a written record of decisions made.
+4. Decisions made should also be written down and shared to everyone else. For example, on a Trello board.
+5. Any meeting that is _for the sake of it_ is discouraged.
 
 ## Regulation 9: Election
 

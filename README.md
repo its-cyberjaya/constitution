@@ -7,7 +7,7 @@ This document is established as of the 2015/2016 academic session of Multimedia 
 ## Regulation 1: General Information
 
 ##### 1. Name of Society:
-IT Society, Multimedia University (Cyberjaya Campus)
+IT Society, Multimedia University (Cyberjaya Campus).
 
 ##### 2. Address:
 ```
@@ -31,7 +31,8 @@ To empower students as active practitioners of information technology and to rep
 
 1. Members of IT Society are defined as:
   * current active students of the Faculty of Computing Informatics, and
-  * current active students of Multimedia University who submits a membership form for registration in the membership database.
+  * current active students of Multimedia University who submits a membership form for registration in the membership database, and
+  * individuals who agree to this constitution.
 
 ## Regulation 3: Responsibilities of IT Society Members
 
@@ -89,31 +90,34 @@ To empower students as active practitioners of information technology and to rep
 4. Ensure event held align with society objective
 
 ## Regulation 8: Meetings
+1. Clear and purposeful agenda must be written down and shared with the notice of a meeting.
+2. Only those who are necessary to be present shall be invited.
+3. Minutes of the meeting must be recorded and circulated to attendees as a written record of deliberations and decisions made.
 
 ### A. Annual General Meeting (AGM)
+1. The Annual General Meeting is an important event for IT Society committees and members to reflect on the past, discuss, and plan for the future.
+2. The date, time and venue of the AGM will be determined by the executive council.
+3. In the AGM, these matters shall be discussed:
+  - Amendments to the constitution
+  - Changes in committee structures and membership
+  - Elections where committee positions where/if required
+  - Reports on events, activities, and lessons learned in the past year
+  - Sharing on events and activities that will be organised in the coming year
+4. Major amendments to the constitution require a **two-thirds majority vote** from the members that attend the AGM.
+5. Notice regarding the AGM must be made known to members **at least a week** before the event.
 
-The Annual General Meeting is an important event for IT Society committees and members to reflect on the past, discuss, and plan for the future. 
+### B. General Meeting (GM)
+1. The President of IT Society has the right to call for a General Meeting if and only if he/she has gained the approval of the Executive Council.
+2. Notice for the General Meeting must be made known at least a week before the meeting is held.
+3. The General Meeting once held has all the powers of the Annual General Meeting.
+4. In a time of need, the Executive Council and the members of the society has the right to call for a General Meeting provided the following requirements are met:
+  1. A notice for the general meeting must be made known a month before the date the meeting is to be held.
+  2. The support of 100 members must be obtained before the meeting is held.
+  3. The meeting must have the attendance of 100 members to be considered valid.
 
-1. The date, time and venue of the AGM will be determined by the executive council.
-2. In the AGM, these matters shall be discussed:
-  - Changes in committee structures and members
-  - Sharing of events, activities, and lessons learned in last year
-  - Sharing of events and activities that will be organised in coming year
-  - Amendments of Constitution
-3. Major amendments of constitution must have **two-thirds majority vote** from the members that attend the AGM.
-4. Notice regarding the AGM must be made known **at least a week** before the event.
+### C. Any other meetings
 
-### B. Any other meetings
-
-Meetings can be started by any committee member, or suggested by IT Society member, in order to discuss about certain topics, and ultimately **get decisions made**.
-
-Rules to follow:
-
-1. Clear and purposeful **agenda** must be written down before a meeting is called.
-2. Only those who are necessary to be present are invited.
-3. A **meeting minute** must be written down and sent to everyone present at the meeting as a written record of decisions made.
-4. Decisions made should also be written down and shared to everyone else. For example, on a Trello board.
-5. Any meeting that is _for the sake of it_ is discouraged.
+1. Meetings can be called and held by any committee member, or suggested by IT Society members, in order to discuss about any topics pertaining to the society and to organize the society's activities.
 
 ## Regulation 9: Election
 
@@ -129,9 +133,7 @@ Rules to follow:
 4. If there are clashes between the constituency of IT Society and the regulation of student affair division, the latter must be taken into consideration.
 
 ## Regulation 11: Others
-
-1. To ensure transparency and integrity of IT Society committee and operations, **records, reports, and meeting minutes are to be disclosed to the public**. Certain documents, however, can be kept confidential as we deem fit.
-2. 
+1. Although certain documents or records may be considered confidential by the organization, the society's members and committee should strive to disclose records, reports and meeting minutes to the public as much as possible to maintain a high level of transparency and integrity.
 
 ## Regulation 12: Resignation or Dismissal
 

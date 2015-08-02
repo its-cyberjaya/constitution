@@ -41,6 +41,19 @@ Members of IT Society are defined as:
 
 ## Regulation 8: Meetings
 
+### A. Annual General Meeting (AGM)
+
+The Annual General Meeting is an important event for IT Society committees and members to reflect on the past, discuss, and plan for the future. 
+
+1. The date, time and venue of the AGM will be determined by the executive council.
+2. In the AGM, these matters shall be discussed:
+- Changes in committee structures and members
+- Sharing of events, activities, and lessons learned in last year
+- Sharing of events and activities that will be organised in coming year
+- Amendments of Constitution
+3. Major amendments of constitution must have **two-thirds majority vote** from the members that attend the AGM.
+4. Notice regarding the AGM must be made known **at least a week** before the event.
+
 ## Regulation 9: Election
 
 ## Regulation 10: Constitution

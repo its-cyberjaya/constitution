@@ -74,6 +74,11 @@ Rules to follow:
 
 ## Regulation 10: Constitution
 
+1. This constitution should be available online for everybody to read, and suggest edit, to encourage transparency. Currently, this constitution is available on <https://github.com/its-cyberjaya/constitution>.
+2. To suggest an amendment or a correction, one has to create an [issue](https://github.com/its-cyberjaya/constitution/issues) on GitHub, or fork the repository, amend it, then [create a Pull Request](https://github.com/its-cyberjaya/constitution/pulls).
+3. Once the pull requested is created, discussion shall take place in the pull request. If the pull request is accepted by committee, the constitution is amended.
+4. If there are clashes between the constituency of IT Society and the regulation of student affair division, the latter must be taken into consideration.
+
 ## Regulation 11: Others
 
 ## Regulation 12: Resignation or Dismissal

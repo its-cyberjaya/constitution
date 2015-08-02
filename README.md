@@ -68,6 +68,10 @@ Rules to follow:
 
 ## Regulation 9: Election
 
+1. New committee members are elected by current committee members from a pool of candidates that have applied for the position, or nominated by current committee members.
+2. All candidates **must have the passion to improve status quo, solve problems, and help the community**.
+3. Upon resignation or retirement (due to graduation from university), the committee member has the responsibility to find a worthy replacement of himself.
+
 ## Regulation 10: Constitution
 
 ## Regulation 11: Others

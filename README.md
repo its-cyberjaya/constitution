@@ -81,16 +81,12 @@ To empower students as active practitioners of information technology and to rep
 
 ## Regulation 5: Responsibilities of Executive Council Members
 
-### President
-1. Lead the council members to set the society’s objectives, direction, and master plan.
-
-### Vice President I
-
-### Vice President II
-
-### Secretary
-
-### Treasurer
+1. President
+  - Lead the council members to set the society’s objectives, direction, and master plan.
+2. Vice President I
+3. Vice President II
+4. Secretary
+5. Treasurer
 
 ## Regulation 6: Responsibilities of Divisional Committee Members
 

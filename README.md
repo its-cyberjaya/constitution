@@ -37,19 +37,39 @@ To empower students as active practitioners of information technology and to rep
 ## Regulation 3: Responsibilities of IT Society Members
 
 ## Regulation 4: Organizational Structure
-* President - Anonoz Chong
-* Vice President 1 - Shaun Goh
-* Vice President 2 - Angeline Cheah
-* Secretary - Lee Zhen Yong
-* Treasurer - Joey Cheng
-* Head of IT Services Division - Hii Yong Lian
-  * -- Assistant - Jack Goh
-* Head of Outreach and Awareness - Lee Zhen Yong
-  * -- Assistant - Anonoz
-* Head of Skills Development - Joey Cheng
-  * -- Assistant - Asyraf
-* Head of Faculty Engagement - Khor Kia Kin
-  * -- Assistant - Shaun Goh
+1. General Assembly
+  * The general assembly shall consist of all members of IT Society.
+
+2. Executive Council
+  * President
+  * Vice President 1
+  * Vice President 2
+  * Secretary
+  * Treasurer
+  * Divisional Heads
+
+3. Divisional Committees
+  * Outreach and Awareness Division
+    * Head
+    * Deputy Head
+  * IT Services Division
+    * Head
+    * Deputy Head
+  * Skills Development Division
+    * Head
+    * Deputy Head
+  * Faculty Engagement Division
+    * Head
+    * Deputy Head
+
+4. Event Committees
+  * Event committees are formed as and when required in order 
+  * They will usually (but not necessarily) consist of:
+    * Director
+    * Deputy Director
+    * Secretary
+    * Treasurer
+  * Divisions may be formed to carry out specific tasks under event committees and will be led by Heads and Deputy Heads.
 
 ## Regulation 5: Responsibilities of Executive Council Members
 

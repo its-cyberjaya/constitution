@@ -103,5 +103,8 @@ Rules to follow:
 
 ## Regulation 11: Others
 
+1. To ensure transparency and integrity of IT Society committee and operations, **records, reports, and meeting minutes are to be disclosed to the public**. Certain documents, however, can be kept confidential as we deem fit.
+2. 
+
 ## Regulation 12: Resignation or Dismissal
 

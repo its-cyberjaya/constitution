@@ -81,6 +81,17 @@ To empower students as active practitioners of information technology and to rep
 
 ## Regulation 5: Responsibilities of Executive Council Members
 
+### President
+1. Lead the council members to set the society’s objectives, direction, and master plan.
+
+### Vice President I
+
+### Vice President II
+
+### Secretary
+
+### Treasurer
+
 ## Regulation 6: Responsibilities of Divisional Committee Members
 
 ## Regulation 7: Responsibilities of Event Committee Members
@@ -128,12 +139,10 @@ To empower students as active practitioners of information technology and to rep
 ## Regulation 10: Constitution
 
 1. This constitution should be available online for everybody to read, and suggest edit, to encourage transparency. Currently, this constitution is available on <https://github.com/its-cyberjaya/constitution>.
-2. To suggest an amendment or a correction, one has to create an [issue](https://github.com/its-cyberjaya/constitution/issues) on GitHub, or fork the repository, amend it, then [create a Pull Request](https://github.com/its-cyberjaya/constitution/pulls).
-3. Once the pull requested is created, discussion shall take place in the pull request. If the pull request is accepted by committee, the constitution is amended.
-4. If there are clashes between the constituency of IT Society and the regulation of student affair division, the latter must be taken into consideration.
+2. If there are clashes between the constituency of IT Society and the regulation of student affair division, the latter must be taken into consideration.
 
-## Regulation 11: Others
+## Regulation 11: Resignation or Dismissal
+
+## Regulation 12: Others
 1. Although certain documents or records may be considered confidential by the organization, the society's members and committee should strive to disclose records, reports and meeting minutes to the public as much as possible to maintain a high level of transparency and integrity.
-
-## Regulation 12: Resignation or Dismissal
 

@@ -35,6 +35,11 @@ To empower students as active practitioners of information technology and to rep
   * individuals who agree to this constitution.
 
 ## Regulation 3: Responsibilities of IT Society Members
+1. Consents and adheres to the regulations stated in this constitution.
+2. Takes care of the well being and reputation of IT Society.
+3. Have the right to be elected, to elect, to vote, and to voice out.
+4. Volunteer to help in IT Society events or carry out the tasks assigned by the committees.
+5. Support and participate in any activity organized by IT Society.
 
 ## Regulation 4: Organizational Structure
 1. General Assembly

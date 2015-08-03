@@ -82,9 +82,18 @@ To empower students as active practitioners of information technology and to rep
 ## Regulation 5: Responsibilities of Executive Council Members
 
 1. President
-  - Lead the council members to set the society’s objectives, direction, and master plan.
+  - Leads the council members to set the society’s objectives, direction, and master plan; and
+  - Observes and guides all council members in order that all activities pertained to the society’s objectives and guides; and
+  - Represents the society to deal with other organisations; and
+  - Resolves conflicts among committee members.
 2. Vice President I
+  - In the absence of President, has the right of the president, and right to conduct a meeting; and
+  - Represents the society to deal with other organisations; and
+  - Ensure smooth operations of IT Society.
 3. Vice President II
+  - In the absence of President and Vice President I, has the right of the president, and the right to conduct a meeting;
+  - Represents the society to deal with other organisations; and
+  - Ensuring the continuity of IT Society by nurturing next generation of committee members.
 4. Secretary
   - Responsible for administrative works and records, and
   - Hands in the annual master plan to Student Representative Council, and

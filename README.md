@@ -44,6 +44,8 @@ To empower students as active practitioners of information technology and to rep
 ## Regulation 4: Organizational Structure
 1. General Assembly
   1. The general assembly shall consist of all members of IT Society.
+  2. The meetings of the general assembly shall be the Annual General Meeting and the General Meeting.
+  3. The general assembly has the right to examine all records of the society.
 
 2. Executive Council
   1. The Executive Council shall consist of:

@@ -82,29 +82,29 @@ To empower students as active practitioners of information technology and to rep
 ## Regulation 5: Responsibilities of Executive Council Members
 
 1. President
-  - Leads the council members to set the society’s objectives, direction, and master plan; and
-  - Observes and guides all council members in order that all activities pertained to the society’s objectives and guides; and
-  - Represents the society to deal with other organisations; and
-  - Resolves conflicts among committee members.
+  1. Leads the council members to set the society’s objectives, direction, and master plan; and
+  2. Observes and guides all council members in order that all activities pertained to the society’s objectives and guides; and
+  3. Represents the society to deal with other organisations; and
+  4. Resolves conflicts among committee members.
 2. Vice President I
-  - In the absence of President, has the right of the president, and right to conduct a meeting; and
-  - Represents the society to deal with other organisations; and
-  - Ensure smooth operations of IT Society.
+  1. In the absence of President, has the right of the president, and right to conduct a meeting; and
+  2. Represents the society to deal with other organisations; and
+  3. Ensure smooth operations of IT Society.
 3. Vice President II
-  - In the absence of President and Vice President I, has the right of the president, and the right to conduct a meeting;
-  - Represents the society to deal with other organisations; and
-  - Ensuring the continuity of IT Society by nurturing next generation of committee members.
+  1. In the absence of President and Vice President I, has the right of the president, and the right to conduct a meeting;
+  2. Represents the society to deal with other organisations; and
+  3. Ensuring the continuity of IT Society by nurturing next generation of committee members.
 4. Secretary
-  - Responsible for administrative works and records, and
-  - Hands in the annual master plan to Student Representative Council, and
-  - Keeps records of all incoming and outgoing letters, documents, e-mails, agendas, and activities report, and
-  - Call for a meeting, and
-  - Plans the agenda for meetings, and
-  - Monitors and compiles all divisions’ and committees’ annual reports
+  1. Responsible for administrative works and records, and
+  2. Hands in the annual master plan to Student Representative Council, and
+  3. Keeps records of all incoming and outgoing letters, documents, e-mails, agendas, and activities report, and
+  4. Call for a meeting, and
+  5. Plans the agenda for meetings, and
+  6. Monitors and compiles all divisions’ and committees’ annual reports
 5. Treasurer
-  - Keeps track of IT Society’s accounts, budgets and expenditures, and
-  - Prepares financial reports for Annual General Meeting, and any meeting that requests for it, and
-  - Ensure the transparency of budgets and expenditures of IT Society.
+  1. Keeps track of IT Society’s accounts, budgets and expenditures, and
+  2. Prepares financial reports for Annual General Meeting, and any meeting that requests for it, and
+  3. Ensure the transparency of budgets and expenditures of IT Society.
 
 ## Regulation 6: Responsibilities of Divisional Committee Members
 1. Head of divisions are responsible for planning, managing, and leading their respective divisions.

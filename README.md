@@ -110,44 +110,47 @@ To empower students as active practitioners of information technology and to rep
 ## Regulation 5: Responsibilities of Executive Council Members
 
 1. President
-  1. Leads the council members to set the society’s objectives, direction, and master plan; and
-  2. Observes and guides all council members in order that all activities pertained to the society’s objectives and guides; and
-  3. Represents the society to deal with other organisations; and
-  4. Has the right to call for executive council meeting; and
+  1. Leads the council members to set the society’s objectives, direction, and master plan.
+  2. Observes and guides all council members in order that all activities pertaining to the society’s objectives and guides.
+  3. Represents the society to deal with other organisations.
+  4. Has the right to call for Executive Council meeting.
   5. Resolves conflicts among committee members.
 2. Vice President I
-  1. In the absence of President, has the right of the president; and
-  2. Represents the society to deal with other organisations; and
+  1. In the absence of President, has the right of the president.
+  2. Represents the society to deal with other organisations.
   3. Ensure smooth operations of IT Society.
+  4. Carries out other tasks assigned by the President.
 3. Vice President II
-  1. In the absence of President and Vice President I, has the right of the president;
-  2. Represents the society to deal with other organisations; and
-  3. Ensuring the continuity of IT Society by nurturing next generation of committee members.
+  1. In the absence of President and Vice President I, has the right of the president.
+  2. Represents the society to deal with other organisations.
+  3. Ensure the continuity of IT Society by nurturing the next generation of committee members.
+  4. Carries out other tasks assigned by the President.
 4. Secretary
-  1. Responsible for administrative works and records, and
-  2. Hands in the annual master plan to Student Representative Council, and
-  3. Keeps records of all incoming and outgoing letters, documents, e-mails, agendas, and activities report, and
-  4. Call for a meeting, and
-  5. Plans the agenda for meetings, and
-  6. Monitors and compiles all divisions’ and committees’ annual reports
+  1. Responsible for administrative records and reports.
+  2. Hands in the annual master plan to Student Representative Council.
+  3. Keeps records of all incoming and outgoing letters, documents, e-mails, agendas, and activities report.
+  4. Issues notice for society meetings when called by the president.
+  5. Plans the agenda for meetings.
+  6. Monitors and compiles all divisions’ and committees’ annual reports.
 5. Treasurer
-  1. Keeps track of IT Society’s accounts, budgets and expenditures, and
-  2. Prepares financial reports for Annual General Meeting, and any meeting that requests for it, and
+  1. Keeps track of IT Society’s accounts, budgets and expenditures.
+  2. Prepares financial reports for Annual General Meeting, and any meeting that requests for it.
   3. Ensure the transparency of budgets and expenditures of IT Society.
 
 
 ## Regulation 6: Responsibilities of Divisional Committee Members
-1. Head of division
-  * is responsible for planning, managing, and leading their respective divisions.
-  * is held accountable for any events organized by the division.
-  * must heed the guidance of the executive council.
-  * must take note of budget expenditures.
+1. Head of Division
+  1. Responsible for planning, managing, and leading their respective divisions.
+  2. Accountable for any events organized by the division.
+  3. Heed the guidance of the executive council.
+  4. Appoint members of the division to keep record and minutes and prepare reports for the division.
+  5. Appoint members of the division to maintain record of budget and expenditures.
 2. Deputy of divisions 
-  * assists the head of divisions.
-  * assume the responsibilities of the head of their division in their absence.
+  1. Assists the head of divisions.
+  2. Assume the responsibilities of the head of their division in their absence.
 3. General
-  * Members of divisions must participate in the event or project at hand.
-  * Division members may help out with tasks from other divisions, however activities from their own division must take precedence.
+  1. Members of the division must participate in the event or project at hand.
+  2. Division members may help out with tasks from other divisions, however activities from their own division must take precedence.
 
 
 ## Regulation 7: Responsibilities of Event Committee Members

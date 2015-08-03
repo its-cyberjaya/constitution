@@ -154,24 +154,27 @@ To empower students as active practitioners of information technology and to rep
 
 
 ## Regulation 7: Responsibilities of Event Committee Members
+
 1. Director of Event
-  * is responsible for planning, managing, and leading their respective events.
-  * is held accountable for their respective events.
-  * must heed the guidance of the executive council.
-  * must personally or delegate the task of record details of meetings.
-  * must appoint secretary and treasurer for their respective events.
-  * is responsible for recruiting commitees of their respective events.
-  * is responsible for ensuring success of their respective events.
-2. Secretary of Event
-  * must participate in the event or project at hand.
-  * is responsible for recording minutes of meeting of their respective events.
-3. Treasurer of Event
-  * must participate in the event or project at hand.
-  * must take note of budget expenditures.
-  * is responsible for recording all expenditures of their respective events.
-4. General Members of Event
-  * must participate in the event or project at hand.
-  * is responsible for their delegated task of their respective events.
+  1. Responsible for planning, managing, and leading their respective events.
+  2. Accountable for their respective events.
+  3. Heed the guidance of the executive council.
+  4. Responsible for recruiting commitees of their respective events.
+  5. In the absence of a secretary, appoint committee members of the event to keep record and minutes and prepare reports for the division.
+  6. In the absence of a treasurer, appoint committee members of the event to maintain record of budget and expenditures.
+  7. Responsible for ensuring success of their respective events.
+2. Deputy Director of Event
+  1. Assists the Director of Event.
+  2. Assume the responsibilities of the Director of Event in their absence.
+3. Secretary of Event
+  1. Responsible for keeping records and minutes and preparing reports for the division.
+  2. Must participate in the event or project at hand.
+4. Treasurer of Event
+  1. Responsible for maintaining record of budget and expenditures.
+  2. Must participate in the event or project at hand.
+5. General Committee Members of Event
+  1. Responsible for their delegated task of their respective events.
+  2. Must participate in the event or project at hand.
 
 
 ## Regulation 8: Meetings

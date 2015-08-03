@@ -67,7 +67,7 @@ To empower students as active practitioners of information technology and to rep
     5. In the case a position on the Council is vacated, appoint any member to hold the position.
 
 3. Divisional Committees
-  1. Divisional committee structure may change from year to year.
+  1. Divisional committee structure is deteremined by the sitting Executive Council.
   2. There can be any number of divisions or no divisions at all.
   3. Divisions are usually created in order to fulfill specific roles or carry out a specific series of activities.
   4. Each division shall be led by a Head and a Deputy Head.
@@ -164,12 +164,13 @@ To empower students as active practitioners of information technology and to rep
 
 ### A. Annual General Meeting (AGM)
 1. The Annual General Meeting is an important event for IT Society committees and members to reflect on the past, discuss, and plan for the future.
-2. The date, time and venue of the AGM will be determined by the executive council.
+2. The date, time and venue of the AGM will be determined by the Executive Council.
 3. In the AGM, these matters shall be discussed:
-  - Amendments to the constitution
-  - Changes in committee structures and membership
-  - Elections where committee positions where/if required
   - Reports on events, activities, and lessons learned in the past year
+  - Amendments to the constitution
+  - Changes in committee structures
+  - Appointment of new executive council and committee members and handover between the old and new committees.
+  - Elections where committee positions where/if required
   - Sharing on events and activities that will be organised in the coming year
 4. Major amendments to the constitution require a **two-thirds majority vote** from the members that attend the AGM.
 5. Notice regarding the AGM must be made known to members **at least a week** before the event.

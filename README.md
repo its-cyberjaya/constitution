@@ -68,8 +68,10 @@ To empower students as active practitioners of information technology and to rep
     1. To organize any activity which is based on IT Society’s objectives.
     2. To form Divisional Committees    
     3. To form Event Committees.
-    4. Take appropriate disciplinary action on any member disregarding responsibilites stated in Regulation 3. Actions taken may be appealed to the General Assembly during an AGM.
-    5. In the case a position on the Council is vacated, appoint any member to hold the position.
+    4. To dismiss any member of the Executive Council with a two thirds majority vote.
+    5. To dismiss any other committee member with a simple majority vote.
+    6. Take appropriate disciplinary action on any member disregarding responsibilites stated in Regulation 3. Actions taken may be appealed to the General Assembly during an AGM.
+    7. In the case a position on the Council is vacated, appoint any member to hold the position.
 
 3. Divisional Committees
   1. Divisional committee structure is deteremined by the sitting Executive Council.
@@ -77,7 +79,7 @@ To empower students as active practitioners of information technology and to rep
   3. Divisions are usually created in order to fulfill specific roles or carry out a specific series of activities.
   4. Each division shall be led by a Head and a Deputy Head.
   5. Divisional Heads shall be considered a member of the Executive Council.
-  6. A Divisional Head may appoint or remove the rest of his/her committee with advice from the Executive Council.
+  6. A Divisional Head may appoint or dismiss the rest of his/her committee with advice from the Executive Council.
   7. An example of divisions and its structure can be as follows:
     * Outreach and Awareness Division
       * Head
@@ -100,7 +102,7 @@ To empower students as active practitioners of information technology and to rep
     * Secretary
     * Treasurer
   3. Divisions may be formed to carry out specific tasks under event committees and will be led by Heads and Deputy Heads.
-  4. An Event Director may appoint or remove the rest of his/her committee members and form divisions under the event with advice from the Executive Council.
+  4. An Event Director may appoint or dismiss the rest of his/her committee members and form divisions under the event with advice from the Executive Council.
 
 5. Advisors
   1. Provides advice on every perspective and the direction/objectives of the society.
@@ -199,7 +201,7 @@ To empower students as active practitioners of information technology and to rep
 ### B. General Meeting (GM)
 1. The President of IT Society has the right to call for a General Meeting if and only if he/she has gained the approval of the Executive Council.
 2. Notice for the General Meeting must be made known at least a week before the meeting is held.
-3. The General Meeting when held has all the powers of the Annual General Meeting.
+3. The General Meeting when held has all the powers of the Annual General Meeting as stated in this constitution.
 4. In a time of need, the Executive Council and the members of the society has the right to call for a General Meeting provided the following requirements are met:
   1. A notice for the general meeting must be made known a month before the date the meeting is to be held.
   2. The support of 100 members must be obtained before the meeting is held.
@@ -218,15 +220,19 @@ To empower students as active practitioners of information technology and to rep
 4. New Executive Council members may be elected by the Executive Council and appointed immediately when the appointment is to replace an existing member of the Council duly appointed at the AGM.
 5. Other committee members may be appointed by the Executive Council at any time.
 
+
 ## Regulation 10: Constitution
 
-1. This constitution should be available online for everybody to read, and suggest edit, to encourage transparency. Currently, this constitution is available on <https://github.com/its-cyberjaya/constitution>.
-2. If there are clashes between the constituency of IT Society and the regulation of student affair division, the latter must be taken into consideration.
+1. This constitution should be available online for everybody to read. Currently, this constitution is available on <https://github.com/its-cyberjaya/constitution>.
+2. Amendments to the constitution may be proposed and voted on at the general assembly during the AGM.
+3. If there are clashes between the constitution of IT Society and the regulation of Multimedia University, the Executive Council must consider the latter and either propose amendments or take action to mediate.
 
 
-## Regulation 11: Resignation or Dismissal
+## Regulation 11: Resignation
+
+1. If a Executive Council member wishes to resign from his/her post, he/she must provide a resignation letter to the Society’s Secretary at least one(1) month in advance.
+2. All resignations will be made known to the Society’s advisors.
 
 
 ## Regulation 12: Others
 1. Although certain documents or records may be considered confidential by the organization, the society's members and committee should strive to disclose records, reports and meeting minutes to the public as much as possible to maintain a high level of transparency and integrity.
-

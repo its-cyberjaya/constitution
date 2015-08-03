@@ -216,8 +216,8 @@ To empower students as active practitioners of information technology and to rep
 
 1. New Executive Council members are elected by current/sitting Executive Council members from a pool of candidates that have applied for the position, or nominated by current Executive Council members.
 2. All candidates must have the passion to improve status quo, solve problems, and help the community.
-3. Candidates successfully elected are appointed at the AGM.
-4. New Executive Council members may be elected by the Executive Council and appointed immediately when the appointment is to replace an existing member of the Council duly appointed at the AGM.
+3. Candidates successfully elected are normally appointed at the AGM.
+4. New Executive Council members may be elected by the Executive Council and appointed immediately when the appointment is to replace an existing member of the Council when an AGM is not due to be called.
 5. Other committee members may be appointed by the Executive Council at any time.
 
 

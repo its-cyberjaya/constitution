@@ -44,7 +44,7 @@ To empower students as active practitioners of information technology and to rep
 ## Regulation 4: Organizational Structure
 1. General Assembly
   1. The general assembly shall consist of all members of IT Society.
-  2. The meetings of the general assembly shall be the Annual General Meeting and the General Meeting.
+  2. The meetings of the general assembly shall be the Annual General Meeting (AGM) and the General Meeting (GM).
   3. The general assembly has the right to examine all records of the society.
 
 2. Executive Council
@@ -55,7 +55,16 @@ To empower students as active practitioners of information technology and to rep
     * Secretary
     * Treasurer
     * Divisional Heads
-  2. The position of Vice President 2 may only be held by a member who is within their first year of Foundation, Diploma or Bachelor's Degree in Multimedia University.
+  2. The Executive Council is the highest administrative body of IT Society and has absolute right on any administrative matters.
+  3. Executive Council members are elected from the membership of IT Society by a sitting Executive Council. They are officially appointed during an AGM, and their appoinments shall be effective until the next AGM, the period of which is approximately one year. Consecutive appointments are allowed.
+    1. The position of Vice President 2 may only be held by a member who is within their first year of Foundation, Diploma or Bachelor's Degree in Multimedia University.
+  4. In the absence of a sitting Executive Council, Executive Council members shall be elected by the General Assembly during the AGM.
+  5. Executive Council has the right as follows:
+    1. To organize any activity which is based on IT Society’s objectives.
+    2. To form Divisional Committees    
+    3. To form Event Committees.
+    4. Take appropriate disciplinary action on any member disregarding responsibilites stated in Regulation 3. Actions taken may be appealed to the General Assembly during an AGM.
+    5. In the case a position on the Council is vacated, appoint any member to hold the position.
 
 3. Divisional Committees
   1. Divisional committee structure may change from year to year.

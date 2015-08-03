@@ -108,11 +108,15 @@ To empower students as active practitioners of information technology and to rep
   3. Ensure the transparency of budgets and expenditures of IT Society.
 
 ## Regulation 6: Responsibilities of Divisional Committee Members
-1. Head of divisions are responsible for planning, managing, and leading their respective divisions.
-2. Head of divisions are held accountable for any events organized by the division, and must heed the guidance of the executive council.
-2. Deputy of divisions assists the head of divisions.
-3. Deputies will assume the responsibilities of the head of their division in the absence of one.
-3. Record details of meetings and their respective budget expenditures.
+1. Head of division
+  * is responsible for planning, managing, and leading their respective divisions.
+  * is held accountable for any events organized by the division
+  * must heed the guidance of the executive council.
+  * Record details of meetings and their respective budget expenditures.
+2. Deputy of divisions 
+  * assists the head of divisions.
+  * assume the responsibilities of the head of their division in their absence.
+3. General
 
 ## Regulation 7: Responsibilities of Event Committee Members
 1. Recruit additional committee members

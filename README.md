@@ -85,13 +85,14 @@ To empower students as active practitioners of information technology and to rep
   1. Leads the council members to set the society’s objectives, direction, and master plan; and
   2. Observes and guides all council members in order that all activities pertained to the society’s objectives and guides; and
   3. Represents the society to deal with other organisations; and
-  4. Resolves conflicts among committee members.
+  4. Has the right to call for executive council meeting; and
+  5. Resolves conflicts among committee members.
 2. Vice President I
-  1. In the absence of President, has the right of the president, and right to conduct a meeting; and
+  1. In the absence of President, has the right of the president; and
   2. Represents the society to deal with other organisations; and
   3. Ensure smooth operations of IT Society.
 3. Vice President II
-  1. In the absence of President and Vice President I, has the right of the president, and the right to conduct a meeting;
+  1. In the absence of President and Vice President I, has the right of the president;
   2. Represents the society to deal with other organisations; and
   3. Ensuring the continuity of IT Society by nurturing next generation of committee members.
 4. Secretary

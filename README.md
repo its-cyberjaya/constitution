@@ -1,8 +1,6 @@
 # Constitution of IT Society, Multimedia University (Cyberjaya Campus)
 
-_This document is in draft mode._
-
-This document is established as of the 2015/2016 academic session of Multimedia University.
+This constitution was passed by the Annual General Meeting of IT Society at CQAR1003, Faculty of Computing Informatics, Multimedia University, at 8.01 pm on 3 August 2015 with immediate effect.
 
 
 ## Regulation 1: General Information

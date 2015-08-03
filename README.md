@@ -4,6 +4,7 @@ _This document is in draft mode._
 
 This document is established as of the 2015/2016 academic session of Multimedia University.
 
+
 ## Regulation 1: General Information
 
 ##### 1. Name of Society:
@@ -27,6 +28,7 @@ To empower students as active practitioners of information technology and to rep
   4. To act as a bridge between FCI and its students.
   5. To fight for the welfare and interests of FCI students.
 
+
 ## Regulation 2: Definition of Membership in IT Society
 
 1. Members of IT Society are defined as:
@@ -34,12 +36,14 @@ To empower students as active practitioners of information technology and to rep
   * current active students of Multimedia University who submits a membership form for registration in the membership database, and
   * individuals who agree to this constitution.
 
+
 ## Regulation 3: Responsibilities of IT Society Members
 1. Consents and adheres to the regulations stated in this constitution.
 2. Takes care of the well being and reputation of IT Society.
 3. Have the right to be elected, to elect, to vote, and to voice out.
 4. Volunteer to help in IT Society events or carry out the tasks assigned by the committees.
 5. Support and participate in any activity organized by IT Society.
+
 
 ## Regulation 4: Organizational Structure
 1. General Assembly
@@ -72,7 +76,8 @@ To empower students as active practitioners of information technology and to rep
   3. Divisions are usually created in order to fulfill specific roles or carry out a specific series of activities.
   4. Each division shall be led by a Head and a Deputy Head.
   5. Divisional Heads shall be considered a member of the Executive Council.
-  6. An example of divisions and its structure can be as follows:
+  6. A Divisional Head may appoint or remove the rest of his/her committee with advice from the Executive Council.
+  7. An example of divisions and its structure can be as follows:
     * Outreach and Awareness Division
       * Head
       * Deputy Head
@@ -94,6 +99,13 @@ To empower students as active practitioners of information technology and to rep
     * Secretary
     * Treasurer
   3. Divisions may be formed to carry out specific tasks under event committees and will be led by Heads and Deputy Heads.
+  4. An Event Director may appoint or remove the rest of his/her committee members and form divisions under the event with advice from the Executive Council.
+
+5. Advisors
+  1. Provides advice on every perspective and the direction/objectives of the society.
+  2. Advisors have the right to attend every meeting of society and also give necessary consultation and suggestion on the society’s activities.
+  3. Advisors have the right to examine every meeting reports and documents including the financial records.
+
 
 ## Regulation 5: Responsibilities of Executive Council Members
 
@@ -123,19 +135,20 @@ To empower students as active practitioners of information technology and to rep
   2. Prepares financial reports for Annual General Meeting, and any meeting that requests for it, and
   3. Ensure the transparency of budgets and expenditures of IT Society.
 
+
 ## Regulation 6: Responsibilities of Divisional Committee Members
 1. Head of division
   * is responsible for planning, managing, and leading their respective divisions.
   * is held accountable for any events organized by the division.
   * must heed the guidance of the executive council.
   * must take note of budget expenditures.
-  * Head of divisions may remove members from their division without prior notice or reason.
 2. Deputy of divisions 
   * assists the head of divisions.
   * assume the responsibilities of the head of their division in their absence.
 3. General
   * Members of divisions must participate in the event or project at hand.
   * Division members may help out with tasks from other divisions, however activities from their own division must take precedence.
+
 
 ## Regulation 7: Responsibilities of Event Committee Members
 1. Director of Event
@@ -156,6 +169,7 @@ To empower students as active practitioners of information technology and to rep
 4. General Members of Event
   * must participate in the event or project at hand.
   * is responsible for their delegated task of their respective events.
+
 
 ## Regulation 8: Meetings
 1. Clear and purposeful agenda must be written down and shared with the notice of a meeting.
@@ -188,18 +202,22 @@ To empower students as active practitioners of information technology and to rep
 
 1. Meetings can be called and held by any committee member, or suggested by IT Society members, in order to discuss about any topics pertaining to the society and to organize the society's activities.
 
+
 ## Regulation 9: Election
 
 1. New committee members are elected by current committee members from a pool of candidates that have applied for the position, or nominated by current committee members.
 2. All candidates **must have the passion to improve status quo, solve problems, and help the community**.
 3. Upon resignation or retirement (due to graduation from university), the committee member has the responsibility to find a worthy replacement of himself.
 
+
 ## Regulation 10: Constitution
 
 1. This constitution should be available online for everybody to read, and suggest edit, to encourage transparency. Currently, this constitution is available on <https://github.com/its-cyberjaya/constitution>.
 2. If there are clashes between the constituency of IT Society and the regulation of student affair division, the latter must be taken into consideration.
 
+
 ## Regulation 11: Resignation or Dismissal
+
 
 ## Regulation 12: Others
 1. Although certain documents or records may be considered confidential by the organization, the society's members and committee should strive to disclose records, reports and meeting minutes to the public as much as possible to maintain a high level of transparency and integrity.

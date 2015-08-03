@@ -112,7 +112,7 @@ To empower students as active practitioners of information technology and to rep
   * is responsible for planning, managing, and leading their respective divisions.
   * is held accountable for any events organized by the division
   * must heed the guidance of the executive council.
-  * must personally or delegate task of record details of meetings.
+  * must personally or delegate the task of record details of meetings.
   * must take note of budget expenditures.
   * Head of divisions may remove members from their division without prior notice or reason.
 2. Deputy of divisions 
@@ -121,6 +121,7 @@ To empower students as active practitioners of information technology and to rep
 3. General
   * Members of divisions must participate in the event or project at hand.
   * Division members may help out with tasks from other divisions, however activities from their own division must take precedence.
+  * 
 
 ## Regulation 7: Responsibilities of Event Committee Members
 1. Recruit additional committee members

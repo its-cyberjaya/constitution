@@ -59,27 +59,28 @@ To empower students as active practitioners of information technology and to rep
     * Divisional Heads
   2. The Executive Council is the highest administrative body of IT Society and has absolute right on any administrative matters.
   3. The quorum for the Executive Council shall be 50% of its members.
-  4. Executive Council members are elected from the membership of IT Society by a sitting Executive Council. They are officially appointed during an AGM, and their appoinments shall be effective until the next AGM, the period of which is approximately one year. Consecutive appointments are allowed.
+  4. Executive Council members, with the exception of Vice President 2, are elected from the membership of IT Society by a sitting Executive Council. They are officially appointed during an AGM, and their appoinments shall be effective until the next AGM, the period of which is approximately one year. Consecutive appointments are allowed.
     1. The President of IT Society must be an active student of Faculty of Computing and Informatics.
-    2. The position of Vice President 2 may only be held by a member who is within their first year of Foundation, Diploma or Bachelor's Degree in Multimedia University.
+    2. Vice President 2 must be a member who is within their first year of Foundation, Diploma or Bachelor's Degree in Multimedia University. Vice President 2 must be elected by the General Assembly during an AGM.
   5. In the absence of a sitting Executive Council, Executive Council members shall be elected by the General Assembly during the AGM.
   6. Executive Council has the right as follows:
     1. To organize any activity which is based on IT Society’s objectives.
-    2. To form Divisional Committees    
+    2. To form Divisional Committees.
     3. To form Event Committees.
     4. To dismiss any member of the Executive Council with a two thirds majority vote.
     5. To dismiss any other committee member with a simple majority vote.
     6. Take appropriate disciplinary action on any member disregarding responsibilites stated in Regulation 3. Actions taken may be appealed to the General Assembly during an AGM.
-    7. In the case a position on the Council is vacated, appoint any member to hold the position.
+    7. In the case any position on the Council is vacated before the end of an appointment, elect and appoint any member to hold the position. Appointments made in such a way shall also only be effective until the next AGM.
 
 3. Divisional Committees
   1. Divisional committee structure is deteremined by the sitting Executive Council.
   2. There can be any number of divisions or no divisions at all.
   3. Divisions are usually created in order to fulfill specific roles or carry out a specific series of activities.
   4. Each division shall be led by a Head and a Deputy Head.
-  5. Divisional Heads shall be considered a member of the Executive Council.
-  6. A Divisional Head may appoint or dismiss the rest of his/her committee with advice from the Executive Council.
-  7. An example of divisions and its structure can be as follows:
+  5. A Divisional Head is a member of the Executive Council.
+  6. Divisional Deputy Heads must be elected by the General Assembly during an AGM.
+  7. A Divisional Head may appoint or dismiss the rest of his/her committee with advice from the Executive Council.
+  8. An example of divisions and its structure can be as follows:
     * Outreach and Awareness Division
       * Head
       * Deputy Head
@@ -203,8 +204,8 @@ To empower students as active practitioners of information technology and to rep
 3. The General Meeting when held has all the powers of the Annual General Meeting as stated in this constitution.
 4. In a time of need, the Executive Council and the members of the society has the right to call for a General Meeting provided the following requirements are met:
   1. A notice for the general meeting must be made known a month before the date the meeting is to be held.
-  2. The support of 100 members must be obtained before the meeting is held.
-  3. The meeting must have the attendance of 100 members to be considered valid.
+  2. The support of 100 members must be obtained before the meeting is held. In the absence of a sitting Executive Council, this requirement is waived.
+  3. The meeting must have the attendance of 100 members to be considered valid. In the absence of a sitting Executive Council, this requirement is waived.
 
 ### C. Any other meetings
 
@@ -216,7 +217,7 @@ To empower students as active practitioners of information technology and to rep
 1. New Executive Council members are elected by current/sitting Executive Council members from a pool of candidates that have applied for the position, or nominated by current Executive Council members.
 2. All candidates must have the passion to improve status quo, solve problems, and help the community.
 3. Candidates successfully elected are normally appointed at the AGM.
-4. New Executive Council members may be elected by the Executive Council and appointed immediately when the appointment is to replace an existing member of the Council when an AGM is not due to be called.
+4. In the case any position on the Executive Council is vacated before the end of an appointment, the Executive Council may elect a new member and appoint them immediately to said position. Appointments made in such a way shall also only be effective until the next AGM.
 5. Other committee members may be appointed by the Executive Council at any time.
 
 

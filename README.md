@@ -60,10 +60,11 @@ To empower students as active practitioners of information technology and to rep
     * Treasurer
     * Divisional Heads
   2. The Executive Council is the highest administrative body of IT Society and has absolute right on any administrative matters.
-  3. Executive Council members are elected from the membership of IT Society by a sitting Executive Council. They are officially appointed during an AGM, and their appoinments shall be effective until the next AGM, the period of which is approximately one year. Consecutive appointments are allowed.
+  3. The quorum for the Executive Council shall be 50% of its members.
+  4. Executive Council members are elected from the membership of IT Society by a sitting Executive Council. They are officially appointed during an AGM, and their appoinments shall be effective until the next AGM, the period of which is approximately one year. Consecutive appointments are allowed.
     1. The position of Vice President 2 may only be held by a member who is within their first year of Foundation, Diploma or Bachelor's Degree in Multimedia University.
-  4. In the absence of a sitting Executive Council, Executive Council members shall be elected by the General Assembly during the AGM.
-  5. Executive Council has the right as follows:
+  5. In the absence of a sitting Executive Council, Executive Council members shall be elected by the General Assembly during the AGM.
+  6. Executive Council has the right as follows:
     1. To organize any activity which is based on IT Society’s objectives.
     2. To form Divisional Committees    
     3. To form Event Committees.
@@ -209,12 +210,13 @@ To empower students as active practitioners of information technology and to rep
 1. Meetings can be called and held by any committee member, or suggested by IT Society members, in order to discuss about any topics pertaining to the society and to organize the society's activities.
 
 
-## Regulation 9: Election
+## Regulation 9: Committee Election and Appointment
 
-1. New committee members are elected by current committee members from a pool of candidates that have applied for the position, or nominated by current committee members.
-2. All candidates **must have the passion to improve status quo, solve problems, and help the community**.
-3. Upon resignation or retirement (due to graduation from university), the committee member has the responsibility to find a worthy replacement of himself.
-
+1. New Executive Council members are elected by current/sitting Executive Council members from a pool of candidates that have applied for the position, or nominated by current Executive Council members.
+2. All candidates must have the passion to improve status quo, solve problems, and help the community.
+3. Candidates successfully elected are appointed at the AGM.
+4. New Executive Council members may be elected by the Executive Council and appointed immediately when the appointment is to replace an existing member of the Council duly appointed at the AGM.
+5. Other committee members may be appointed by the Executive Council at any time.
 
 ## Regulation 10: Constitution
 

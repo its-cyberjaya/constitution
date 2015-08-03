@@ -110,9 +110,8 @@ To empower students as active practitioners of information technology and to rep
 ## Regulation 6: Responsibilities of Divisional Committee Members
 1. Head of division
   * is responsible for planning, managing, and leading their respective divisions.
-  * is held accountable for any events organized by the division
+  * is held accountable for any events organized by the division.
   * must heed the guidance of the executive council.
-  * must personally or delegate the task of record details of meetings.
   * must take note of budget expenditures.
   * Head of divisions may remove members from their division without prior notice or reason.
 2. Deputy of divisions 
@@ -121,13 +120,26 @@ To empower students as active practitioners of information technology and to rep
 3. General
   * Members of divisions must participate in the event or project at hand.
   * Division members may help out with tasks from other divisions, however activities from their own division must take precedence.
-  * 
 
 ## Regulation 7: Responsibilities of Event Committee Members
-1. Recruit additional committee members
-2. Plan and carry out event activities
-3. In charge of sponsorship
-4. Ensure event held align with society objective
+1. Director of Event
+  * is responsible for planning, managing, and leading their respective events.
+  * is held accountable for their respective events.
+  * must heed the guidance of the executive council.
+  * must personally or delegate the task of record details of meetings.
+  * must appoint secretary and treasurer for their respective events.
+  * is responsible for recruiting commitees of their respective events.
+  * is responsible for ensuring success of their respective events.
+2. Secretary of Event
+  * must participate in the event or project at hand.
+  * is responsible for recording minutes of meeting of their respective events.
+3. Treasurer of Event
+  * must participate in the event or project at hand.
+  * must take note of budget expenditures.
+  * is responsible for recording all expenditures of their respective events.
+4. General Members of Event
+  * must participate in the event or project at hand.
+  * is responsible for their delegated task of their respective events.
 
 ## Regulation 8: Meetings
 1. Clear and purposeful agenda must be written down and shared with the notice of a meeting.

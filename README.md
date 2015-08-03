@@ -62,7 +62,8 @@ To empower students as active practitioners of information technology and to rep
   2. The Executive Council is the highest administrative body of IT Society and has absolute right on any administrative matters.
   3. The quorum for the Executive Council shall be 50% of its members.
   4. Executive Council members are elected from the membership of IT Society by a sitting Executive Council. They are officially appointed during an AGM, and their appoinments shall be effective until the next AGM, the period of which is approximately one year. Consecutive appointments are allowed.
-    1. The position of Vice President 2 may only be held by a member who is within their first year of Foundation, Diploma or Bachelor's Degree in Multimedia University.
+    1. The President of IT Society must be an active student of Faculty of Computing and Informatics.
+    2. The position of Vice President 2 may only be held by a member who is within their first year of Foundation, Diploma or Bachelor's Degree in Multimedia University.
   5. In the absence of a sitting Executive Council, Executive Council members shall be elected by the General Assembly during the AGM.
   6. Executive Council has the right as follows:
     1. To organize any activity which is based on IT Society’s objectives.

@@ -86,7 +86,16 @@ To empower students as active practitioners of information technology and to rep
 2. Vice President I
 3. Vice President II
 4. Secretary
+  - Responsible for administrative works and records, and
+  - Hands in the annual master plan to Student Representative Council, and
+  - Keeps records of all incoming and outgoing letters, documents, e-mails, agendas, and activities report, and
+  - Call for a meeting, and
+  - Plans the agenda for meetings, and
+  - Monitors and compiles all divisions’ and committees’ annual reports
 5. Treasurer
+  - Keeps track of IT Society’s accounts, budgets and expenditures, and
+  - Prepares financial reports for Annual General Meeting, and any meeting that requests for it, and
+  - Ensure the transparency of budgets and expenditures of IT Society.
 
 ## Regulation 6: Responsibilities of Divisional Committee Members
 1. Head of divisions are responsible for planning, managing, and leading their respective divisions.

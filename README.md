@@ -1,6 +1,36 @@
-# Constitution of IT Society, Multimedia University (Cyberjaya Campus)
+<h1 align="center"> INFORMATION TECHNOLOGY
+                    <br></br>
+                    SOCIETY
+                    <br></br>
+                    MULTIMEDIA UNIVERSITY
+                    <br></br>
+                    (CYBERJAYA CAMPUS)
+                    <br></br>
+                    <br></br>
+                    CONSTITUTION 
+</h1>
 
-This constitution was passed by the Annual General Meeting of IT Society at CQAR1003, Faculty of Computing Informatics, Multimedia University, at 8.01 pm on 3 August 2015 with immediate effect.
+
+## Table Of Contents
+Regulation 1:  General Information
+<br></br>
+Regulation 2:  Membership
+<br></br>
+Regulation 3:  Organizational Structure
+<br></br>
+Regulation 4:  Responsibilities of Executive Council Members
+<br></br>
+Regulation 5:  Responsibilities of Divisional Committee Members
+<br></br>
+Regulation 6:  Responsibilities of Event Committee Members
+<br></br>
+Regulation 7:  Meetings
+<br></br>
+Regulation 8:  Committee Election and Appointment
+<br></br>
+Regulation 9:  Resignation
+<br></br>
+Regulation 10: Others
 
 
 ## Regulation 1: General Information
@@ -257,3 +287,10 @@ To empower students as active practitioners of information technology and to rep
 ## Regulation 11: Others
 
 ##### 1. Although certain documents or records may be considered confidential by the organization, the society's members and committee should strive to disclose records, reports and meeting minutes to the public as much as possible to maintain a high level of transparency and integrity.
+
+<h2 align="center">- End of Regulations -</h2>
+<br></br>
+<br></br>
+<br></br>
+This constitution was passed by the Annual General Meeting of IT Society at CQAR1003, Faculty of Computing Informatics, Multimedia University, at 8.01 pm on 3 
+August 2015 with immediate effect.

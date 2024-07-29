@@ -241,13 +241,13 @@ To empower students as active practitioners of information technology and to rep
     b. The date, time and venue of the AGM will be determined by the Executive Council.
     c. Notice regarding the AGM **must** be made known to members at least a week before the meeting.
     d. If half an hour after the time appointed for the meeting a quorum is not present, the meeting shall be postponed to a date (not exceeding 30 days) to be decided by          the Committee; and if a quorum is not present half an hour after the time appointed for the postponed meeting, the members present shall have the power to proceed           with the business of the day but shall not have the power to alter the rules of the Society or make any decision affecting the whole membership.
-3. In the AGM, these matters shall be discussed:
-  - Reports on events, activities, and lessons learned in the past year
-  - Amendments to the constitution
-  - Changes in committee structures
-  - Appointment of new executive council and committee members and handover between the old and new committees.
-  - Elections where committee positions where/if required
-  - Sharing on events and activities that will be organised in the coming year
+    e. In the AGM, these matters shall be discussed:
+        I.   Reports on events, activities, and lessons learned in the past year
+        II.  Amendments to the constitution. Any amendments to the constitution require a two-thirds majority vote from the members that attend the AGM
+        III. Changes in committee structures
+        IV.  Appointment of new executive council and committee members and handover between the old and new committees.
+        V.   Elections where committee positions where/if required
+        VI.  Sharing on events and activities that will be organized in the coming year
 4. Major amendments to the constitution require a **two-thirds majority vote** from the members that attend the AGM.
 
 ##### 5. General Meeting (GM)

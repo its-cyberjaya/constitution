@@ -240,6 +240,7 @@ To empower students as active practitioners of information technology and to rep
     a. The Annual General Meeting is an important event for IT Society committees and members to reflect on the past, discuss, and plan for the future.
     b. The date, time and venue of the AGM will be determined by the Executive Council.
     c. Notice regarding the AGM **must** be made known to members at least a week before the meeting.
+    d. If half an hour after the time appointed for the meeting a quorum is not present, the meeting shall be postponed to a date (not exceeding 30 days) to be decided by          the Committee; and if a quorum is not present half an hour after the time appointed for the postponed meeting, the members present shall have the power to proceed           with the business of the day but shall not have the power to alter the rules of the Society or make any decision affecting the whole membership.
 3. In the AGM, these matters shall be discussed:
   - Reports on events, activities, and lessons learned in the past year
   - Amendments to the constitution

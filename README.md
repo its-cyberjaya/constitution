@@ -303,3 +303,14 @@ To empower students as active practitioners of information technology and to rep
 <br></br>
 This constitution was passed by the Annual General Meeting of IT Society at CQAR1003, Faculty of Computing Informatics, Multimedia University, at 8.01 pm on 3 
 August 2015 with immediate effect.
+
+Details below are already reflected in the constitution above and are not to be treated as
+amendments to be read separately in addition to the constitution. They merely record details of changes to the document over time.
+
+**Changelog**
++ 3/8/2015 : 
+    The Constitution was adopted by IT Society during its inaugural Annual General Meeting. 
++ 26/7/2024 : 
+    Amendments by renaming Regulation 2: Definition of Membership in IT Society to Regulation 2: Membership. 
+    Merging Regulation 3: Responsibilities of IT Society Members into Regulation 2: Membership.
+    General Meeting. 

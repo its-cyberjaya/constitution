@@ -239,6 +239,7 @@ To empower students as active practitioners of information technology and to rep
 ##### 4. Annual General Meeting (AGM)
     a. The Annual General Meeting is an important event for IT Society committees and members to reflect on the past, discuss, and plan for the future.
     b. The date, time and venue of the AGM will be determined by the Executive Council.
+    c. Notice regarding the AGM **must** be made known to members at least a week before the meeting.
 3. In the AGM, these matters shall be discussed:
   - Reports on events, activities, and lessons learned in the past year
   - Amendments to the constitution
@@ -247,7 +248,6 @@ To empower students as active practitioners of information technology and to rep
   - Elections where committee positions where/if required
   - Sharing on events and activities that will be organised in the coming year
 4. Major amendments to the constitution require a **two-thirds majority vote** from the members that attend the AGM.
-5. Notice regarding the AGM must be made known to members **at least a week** before the event.
 
 ##### 5. General Meeting (GM)
     a. The President of IT Society has the right to call for a General Meeting if and only if he/she has gained the approval of the Executive Council.

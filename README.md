@@ -28,9 +28,11 @@ Regulation 7:  Meetings
 <br></br>
 Regulation 8:  Committee Election and Appointment
 <br></br>
-Regulation 9:  Resignation
+Regulation 9:  Constitution
 <br></br>
-Regulation 10: Others
+Regulation 10: Resignation
+<br></br>
+Regulation 11: Others
 
 
 ## Regulation 1: General Information

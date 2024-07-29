@@ -254,10 +254,12 @@ To empower students as active practitioners of information technology and to rep
     a. The President of IT Society has the right to call for a General Meeting if and only if he/she has gained the approval of the Executive Council.
     b. Notice for the GM must be made known at least a week before the meeting is held.
     c. The GM when held has all the powers of the AGM as stated in this constitution.
-4. In a time of need, the Executive Council and the members of the society has the right to call for a General Meeting provided the following requirements are met:
-  1. A notice for the general meeting must be made known a month before the date the meeting is to be held.
-  2. The support of 100 members must be obtained before the meeting is held.
-  3. The meeting must have the attendance of 100 members to be considered valid.
+    d. In a time of need, the Executive Council and the members of the society have the right to call for a General Meeting provided the following requirements are met:
+        I.   A notice for the general meeting must be made known a month before the date the meeting is to be held.
+        II.  The support of half the voting membership of the club or twice the total number of Committee members, whichever is the lesser number, 
+             is obtained in writing before the meeting is held.
+        III. The support of half the voting membership of the club or twice the total number of Committee members, whichever is the lesser number, 
+             is obtained in writing to be considered valid.
 
 ##### 6. Any other meetings
     a. Meetings can be called and held by any committee member or suggested by IT Society members, in order to discuss any topics pertaining to the society and to organize the society's activities.

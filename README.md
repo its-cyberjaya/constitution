@@ -27,15 +27,14 @@ To empower students as active practitioners of information technology and to rep
   5. To fight for the welfare and interests of FCI students.
 
 
-## Regulation 2: Definition of Membership in IT Society
+## Regulation 2: Membership
 
-1. Members of IT Society are defined as:
+##### 1. Members of IT Society are defined as:
   * current active students of the Faculty of Computing Informatics, and
   * current active students of Multimedia University who submits a membership form for registration in the membership database, and
   * individuals who agree to this constitution.
 
-
-## Regulation 3: Responsibilities of IT Society Members
+##### 2. Members of IT Society have the responsibility to:
 1. Consents and adheres to the regulations stated in this constitution.
 2. Takes care of the well being and reputation of IT Society.
 3. Have the right to be elected, to elect, to vote, and to voice out.
@@ -43,13 +42,14 @@ To empower students as active practitioners of information technology and to rep
 5. Support and participate in any activity organized by IT Society.
 
 
-## Regulation 4: Organizational Structure
-1. General Assembly
+## Regulation 3: Organizational Structure
+
+##### 1. General Assembly
   1. The general assembly shall consist of all members of IT Society.
   2. The meetings of the general assembly shall be the Annual General Meeting (AGM) and the General Meeting (GM).
   3. The general assembly has the right to examine all records of the society.
 
-2. Executive Council
+##### 2. Executive Council
   1. The Executive Council shall consist of:
     * President
     * Vice President 1
@@ -72,7 +72,7 @@ To empower students as active practitioners of information technology and to rep
     6. Take appropriate disciplinary action on any member disregarding responsibilites stated in Regulation 3. Actions taken may be appealed to the General Assembly during an AGM.
     7. In the case a position on the Council is vacated, appoint any member to hold the position.
 
-3. Divisional Committees
+##### 3. Divisional Committees
   1. Divisional committee structure is deteremined by the sitting Executive Council.
   2. There can be any number of divisions or no divisions at all.
   3. Divisions are usually created in order to fulfill specific roles or carry out a specific series of activities.
@@ -93,7 +93,7 @@ To empower students as active practitioners of information technology and to rep
       * Head
       * Deputy Head
 
-4. Event Committees
+##### 4. Event Committees
   1. Event committees are formed as and when required in order to organize events.
   2. They will usually (but not necessarily) consist of:
     * Director
@@ -103,61 +103,68 @@ To empower students as active practitioners of information technology and to rep
   3. Divisions may be formed to carry out specific tasks under event committees and will be led by Heads and Deputy Heads.
   4. An Event Director may appoint or dismiss the rest of his/her committee members and form divisions under the event with advice from the Executive Council.
 
-5. Advisors
+##### 5. Advisors
   1. Provides advice on every perspective and the direction/objectives of the society.
   2. Advisors have the right to attend every meeting of society and also give necessary consultation and suggestion on the society’s activities.
   3. Advisors have the right to examine every meeting reports and documents including the financial records.
 
 
-## Regulation 5: Responsibilities of Executive Council Members
+## Regulation 4: Responsibilities of Executive Council Members
 
-1. President
+##### 1. President
   1. Leads the council members to set the society’s objectives, direction, and master plan.
   2. Observes and guides all council members in order that all activities pertaining to the society’s objectives and guides.
   3. Represents the society to deal with other organisations.
   4. Has the right to call for Executive Council meeting.
   5. Resolves conflicts among committee members.
-2. Vice President I
+
+##### 2. Vice President I
   1. In the absence of President, has the right of the president.
   2. Represents the society to deal with other organisations.
   3. Ensure smooth operations of IT Society.
   4. Carries out other tasks assigned by the President.
-3. Vice President II
+     
+##### 3. Vice President II
   1. In the absence of President and Vice President I, has the right of the president.
   2. Represents the society to deal with other organisations.
   3. Ensure the continuity of IT Society by nurturing the next generation of committee members.
   4. Carries out other tasks assigned by the President.
-4. Secretary
+     
+##### 4. Secretary
   1. Responsible for administrative records and reports.
   2. Hands in the annual master plan to Student Representative Council.
   3. Keeps records of all incoming and outgoing letters, documents, e-mails, agendas, and activities report.
   4. Issues notice for society meetings when called by the president.
   5. Plans the agenda for meetings.
   6. Monitors and compiles all divisions’ and committees’ annual reports.
-5. Treasurer
+     
+##### 5. Treasurer
   1. Keeps track of IT Society’s accounts, budgets and expenditures.
   2. Prepares financial reports for Annual General Meeting, and any meeting that requests for it.
   3. Ensure the transparency of budgets and expenditures of IT Society.
 
 
-## Regulation 6: Responsibilities of Divisional Committee Members
-1. Head of Division
+## Regulation 5: Responsibilities of Divisional Committee Members
+
+##### 1. Head of Division
   1. Responsible for planning, managing, and leading their respective divisions.
   2. Accountable for any events organized by the division.
   3. Heed the guidance of the executive council.
   4. Appoint members of the division to keep record and minutes and prepare reports for the division.
   5. Appoint members of the division to maintain record of budget and expenditures.
-2. Deputy of divisions 
+    
+##### 2. Deputy of divisions 
   1. Assists the head of divisions.
   2. Assume the responsibilities of the head of their division in their absence.
-3. General
+     
+##### 3. General
   1. Members of the division must participate in the event or project at hand.
   2. Division members may help out with tasks from other divisions, however activities from their own division must take precedence.
 
 
-## Regulation 7: Responsibilities of Event Committee Members
+## Regulation 6: Responsibilities of Event Committee Members
 
-1. Director of Event
+##### 1. Director of Event
   1. Responsible for planning, managing, and leading their respective events.
   2. Accountable for their respective events.
   3. Heed the guidance of the executive council.
@@ -165,24 +172,31 @@ To empower students as active practitioners of information technology and to rep
   5. In the absence of a secretary, appoint committee members of the event to keep record and minutes and prepare reports for the division.
   6. In the absence of a treasurer, appoint committee members of the event to maintain record of budget and expenditures.
   7. Responsible for ensuring success of their respective events.
-2. Deputy Director of Event
+     
+##### 2. Deputy Director of Event
   1. Assists the Director of Event.
   2. Assume the responsibilities of the Director of Event in their absence.
-3. Secretary of Event
+     
+##### 3. Secretary of Event
   1. Responsible for keeping records and minutes and preparing reports for the division.
   2. Must participate in the event or project at hand.
-4. Treasurer of Event
+     
+##### 4. Treasurer of Event
   1. Responsible for maintaining record of budget and expenditures.
   2. Must participate in the event or project at hand.
-5. General Committee Members of Event
+     
+##### 5. General Committee Members of Event
   1. Responsible for their delegated task of their respective events.
   2. Must participate in the event or project at hand.
 
 
-## Regulation 8: Meetings
-1. Clear and purposeful agenda must be written down and shared with the notice of a meeting.
-2. Only those who are necessary to be present shall be invited.
-3. Minutes of the meeting must be recorded and circulated to attendees as a written record of deliberations and decisions made.
+## Regulation 7: Meetings
+
+##### 1. Clear and purposeful agenda must be written down and shared with the notice of a meeting.
+
+##### 2. Only those who are necessary to be present shall be invited.
+
+##### 3. Minutes of the meeting must be recorded and circulated to attendees as a written record of deliberations and decisions made.
 
 ### A. Annual General Meeting (AGM)
 1. The Annual General Meeting is an important event for IT Society committees and members to reflect on the past, discuss, and plan for the future.
@@ -211,27 +225,35 @@ To empower students as active practitioners of information technology and to rep
 1. Meetings can be called and held by any committee member, or suggested by IT Society members, in order to discuss about any topics pertaining to the society and to organize the society's activities.
 
 
-## Regulation 9: Committee Election and Appointment
+## Regulation 8: Committee Election and Appointment
 
-1. New Executive Council members are elected by current/sitting Executive Council members from a pool of candidates that have applied for the position, or nominated by current Executive Council members.
-2. All candidates must have the passion to improve status quo, solve problems, and help the community.
-3. Candidates successfully elected are normally appointed at the AGM.
-4. New Executive Council members may be elected by the Executive Council and appointed immediately when the appointment is to replace an existing member of the Council when an AGM is not due to be called.
-5. Other committee members may be appointed by the Executive Council at any time.
+##### 1. New Executive Council members are elected by current/sitting Executive Council members from a pool of candidates that have applied for the position, or nominated by current Executive Council members.
 
+##### 2. All candidates must have the passion to improve status quo, solve problems, and help the community.
 
-## Regulation 10: Constitution
+##### 3. Candidates successfully elected are normally appointed at the AGM.
 
-1. This constitution should be available online for everybody to read. Currently, this constitution is available on <https://github.com/its-cyberjaya/constitution>.
-2. Amendments to the constitution may be proposed and voted on at the general assembly during the AGM.
-3. If there are clashes between the constitution of IT Society and the regulation of Multimedia University, the Executive Council must consider the latter and either propose amendments or take action to mediate.
+##### 4. New Executive Council members may be elected by the Executive Council and appointed immediately when the appointment is to replace an existing member of the Council when an AGM is not due to be called.
+
+##### 5. Other committee members may be appointed by the Executive Council at any time.
 
 
-## Regulation 11: Resignation
+## Regulation 9: Constitution
 
-1. If a Executive Council member wishes to resign from his/her post, he/she must provide a resignation letter to the Society’s Secretary at least one(1) month in advance.
-2. All resignations will be made known to the Society’s advisors.
+##### 1. This constitution should be available online for everybody to read. Currently, this constitution is available on <https://github.com/its-cyberjaya/constitution>.
+
+##### 2. Amendments to the constitution may be proposed and voted on at the general assembly during the AGM.
+
+##### 3. If there are clashes between the constitution of IT Society and the regulation of Multimedia University, the Executive Council must consider the latter and either propose amendments or take action to mediate.
 
 
-## Regulation 12: Others
-1. Although certain documents or records may be considered confidential by the organization, the society's members and committee should strive to disclose records, reports and meeting minutes to the public as much as possible to maintain a high level of transparency and integrity.
+## Regulation 10: Resignation
+
+##### 1. If a Executive Council member wishes to resign from his/her post, he/she must provide a resignation letter to the Society’s Secretary at least one(1) month in advance.
+
+##### 2. All resignations will be made known to the Society’s advisors.
+
+
+## Regulation 11: Others
+
+##### 1. Although certain documents or records may be considered confidential by the organization, the society's members and committee should strive to disclose records, reports and meeting minutes to the public as much as possible to maintain a high level of transparency and integrity.

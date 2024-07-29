@@ -248,7 +248,6 @@ To empower students as active practitioners of information technology and to rep
         IV.  Appointment of new executive council and committee members and handover between the old and new committees.
         V.   Elections where committee positions where/if required
         VI.  Sharing on events and activities that will be organized in the coming year
-4. Major amendments to the constitution require a **two-thirds majority vote** from the members that attend the AGM.
 
 ##### 5. General Meeting (GM)
     a. The President of IT Society has the right to call for a General Meeting if and only if he/she has gained the approval of the Executive Council.

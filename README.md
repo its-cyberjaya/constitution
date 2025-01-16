@@ -84,8 +84,8 @@ To empower students as active practitioners of information technology and to rep
 ##### 2. Executive Council
     a. The Executive Council shall consist of:
           I.   President
-          II.  Vice President Internal
-          III. Vice President External
+          II.  Vice President of Goal Execution
+          III. Vice President of Internal Support
           IV.  Secretary
           V.   Treasurer
           VI.  Divisional Heads
@@ -156,17 +156,21 @@ To empower students as active practitioners of information technology and to rep
     d. Has the right to call for Executive Council meeting.
     e. Resolves conflicts among committee members.
 
-##### 2. Vice President I
+##### 2. Vice President of Goal Execution
     a. In the absence of President, has the right of the president.
     b. Represents the society to deal with other organisations.
     c. Ensure smooth operations of IT Society.
     d. Carries out other tasks assigned by the President.
+    e. Assists the president in overseeing divisions related to goal execution and ensures divisions are achieving their goals.
+
      
-##### 3. Vice President II
-    a. In the absence of President and Vice President I, has the right of the president.
+##### 3. Vice President of Internal Support 
+    a. In the absence of President and Vice President of Goal Execution, has the right of the president.
     b. Represents the society to deal with other organisations.
     c. Ensure the continuity of IT Society by nurturing the next generation of committee members.
     d. Carries out other tasks assigned by the President.
+    e. Assists the president in overseeing divisions related to supporting society operations and ensures divisions are getting the support they require.
+
     
 ##### 4. Secretary
     a. Responsible for administrative records and reports.

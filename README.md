@@ -438,14 +438,16 @@ This constitution was passed by the Annual General Meeting of IT Society at CQAR
 Details below are already reflected in the constitution above and are not to be treated as amendments to be read separately in addition to the constitution. They merely record details of changes to the document over time.
 
 **Changelog**
+```
 + 3/8/2015 : 
     The Constitution was adopted by IT Society during its inaugural Annual General Meeting. 
 + 26/7/2024 : 
     Amendments by renaming Regulation 2: Definition of Membership in IT Society to Regulation 2: Membership. 
     Merging Regulation 3: Responsibilities of IT Society Members into Regulation 2: Membership.
-    General Meeting. 
+    General Meeting.
 + 17/01/2025:
-    Renamed the positions of the Vice Presidents with clearer roals (Goal Execution and Internal Support)
+    Renamed the positions of the Vice Presidents and added clearer roles (Goal Execution and Internal Support)
 + 15/12/2025:
-    Added position of Vice President Special Projects
+    Added position of Vice President Special Projects.
     First year requirement to only apply to Vice President Special Projects
+```

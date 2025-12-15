@@ -96,7 +96,7 @@ To empower students as active practitioners of information technology and to rep
        They are officially appointed during an AGM, and their appointments shall be effective until the next AGM, the period of which is approximately one year. 
        Consecutive appointments are allowed.
           I.  The President of IT Society must be an active student of the Faculty of Computing and Informatics.
-          II. The position of Vice President may only be held by a member who is within their first year of Foundation, Diploma, or Bachelor's Degree in 
+          II. The position of Vice President of Special Projects may only be held by a member who is within their first year of Foundation, Diploma, or Bachelor's Degree in 
               Multimedia University.
     e. New Council members may be elected by the sitting Council and appointed immediately when the appointment is to replace an existing member of the Committee 
        when an AGM is not due to be called for another month.  

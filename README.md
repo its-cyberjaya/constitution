@@ -86,9 +86,10 @@ To empower students as active practitioners of information technology and to rep
           I.   President
           II.  Vice President of Goal Execution
           III. Vice President of Internal Support
-          IV.  Secretary
-          V.   Treasurer
-          VI.  Divisional Heads
+          IV.  Vice President of Special Projects
+          V.  Secretary
+          VI.   Treasurer
+          VII.  Divisional Heads
     b. The Executive Council is the highest administrative body of IT Society and has absolute right on any administrative matters.
     c. The quorum for the Executive Council shall be 50% of its members.
     d. Executive Council members are elected from the membership of the IT Society by a sitting Executive Council. 
@@ -171,6 +172,15 @@ To empower students as active practitioners of information technology and to rep
     d. Carries out other tasks assigned by the President.
     e. Assists the president in overseeing divisions related to supporting society operations and ensures divisions are getting the support they require.
 
+
+##### 4. Vice President of Special Projects
+    - In the absence of the President, the Vice President of Goal Execution, and the Vice President of Internal Support, has the right of the president.
+    - Represents the society to deal with other organisations.
+    - Advising event executive committees to smooth execution of major IT Society events
+    - Oversees the operation of Special Interest Groups
+    - Carries out other tasks assigned by the President.
+    - Assists the President in managing the SIGs and major events under IT Society
+
     
 ##### 4. Secretary
     a. Responsible for administrative records and reports.
@@ -232,7 +242,27 @@ To empower students as active practitioners of information technology and to rep
     b. Must participate in the event or project at hand.
 
 
-## Regulation 7: Meetings
+## Regulation 7: Special Interest Groups
+
+##### 1. SIG may maintain their own internal structure such as definitions of membership or committee structures.
+
+##### 2. Each SIG is encouraged to establish a logo and name branding styles, accompanied by IT Society's, MMU’s, and TM‘s logo.
+
+##### 3. Each SIG must be led by a President, supported by a Vice President and a Secretary.
+
+##### 4. An existing SIG Committee will elect the next SIG President, appointing their own Vice President and Secretary. The handover should take place during the IT Society's AGM.
+
+##### 5. To be eligible for Committee roles, individuals must meet essential requirements such as:
+    a. Active participation in SIG activities.
+    b. Understanding of the SIG’s purpose and goals.
+    c. Demonstrated commitment to its development.
+
+##### 6.  Each SIG may define its own membership process, but all members must be registered to ensure proper communication, participation tracking, and eligibility for leadership roles.
+
+##### 7. The SIG should conduct at least one meetup every month during months where at least 14 days of the month are university instruction weeks. Each meetup should run for approximately 2 hours and 30 minutes.
+
+
+## Regulation 8: Meetings
 
 ##### 1. Clear and purposeful agenda must be written down and shared with the notice of a meeting.
 
@@ -268,7 +298,7 @@ To empower students as active practitioners of information technology and to rep
     a. Meetings can be called and held by any committee member or suggested by IT Society members, in order to discuss any topics pertaining to the society and to organize the society's activities.
 
 
-## Regulation 8: Committee Election and Appointment
+## Regulation 9: Committee Election and Appointment
 
 ##### 1. New Executive Council members are elected by current/sitting Executive Council members from a pool of candidates that have applied for the position, or nominated by current Executive Council members.
 
@@ -281,7 +311,7 @@ To empower students as active practitioners of information technology and to rep
 ##### 5. Other committee members may be appointed by the Executive Council at any time.
 
 
-## Regulation 9: Constitution
+## Regulation 10: Constitution
 
 ##### 1. This constitution should be available online for everybody to read. Currently, this constitution is available on <https://github.com/its-cyberjaya/constitution>.
 
@@ -290,14 +320,14 @@ To empower students as active practitioners of information technology and to rep
 ##### 3. If there are clashes between the constitution of IT Society and the regulation of Multimedia University, the Executive Council must consider the latter and either propose amendments or take action to mediate.
 
 
-## Regulation 10: Resignation
+## Regulation 11: Resignation
 
 ##### 1. If a Executive Council member wishes to resign from his/her post, he/she must provide a resignation letter to the Society’s Secretary at least one(1) month in advance.
 
 ##### 2. All resignations will be made known to the Society’s advisors.
 
 
-## Regulation 11: Others
+## Regulation 12: Others
 
 ##### 1. Although certain documents or records may be considered confidential by the organization, the society's members and committee should strive to disclose records, reports and meeting minutes to the public as much as possible to maintain a high level of transparency and integrity.
 
